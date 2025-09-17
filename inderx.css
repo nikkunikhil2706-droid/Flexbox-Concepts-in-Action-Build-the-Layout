@@ -1,0 +1,107 @@
+.continer{
+    border: 1px solid #888;
+    display: flex;
+    margin: 10px;
+}
+.continer div{
+    border:1px solid #888;
+    padding: 10px;
+    background-color: lightblue;
+    margin: 5px;
+}
+
+.continer2{
+    border: 1px solid #888;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.continer2 div{
+    border: 1px solid #888;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    background-color: lightblue;
+    
+}
+
+.continer3{
+    border: 1px solid #888;
+    display: flex;
+    justify-content: center;
+}
+.continer3 div{
+    border: 1px solid#888;
+    margin: 5px;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+.continer4{
+    border: 1px solid #888;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.continer4 div{
+    border: 1px solid #888;
+    margin: 10px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.continer5{
+    border: 1px solid #888;
+    display: flex;
+   
+    
+}
+
+.continer5 div{
+    border: 1px solid #888;
+    margin: 10px;
+    padding: 15px;
+    background-color: lightblue;
+}
+.top{
+   width: 30px;
+   height: 20px;
+    
+}
+.toll{
+    width: 25px;
+    height: 50px;
+}
+
+.short{
+    width: 30px;
+    height: 20px;
+}
+
+.continer6{
+    border: 1px solid#888;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.continer6 div{
+    border: 1px solid #888;
+    margin: 5px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.continer7{
+    border: 1px solid #888;
+    display: flex;
+    margin: 10px;
+    gap: 10px;
+}
+
+.continer7 div{
+    border: 1px solid #888;
+    margin: 5px;
+    padding: 20px;
+    background-color: lightblue;
+}
